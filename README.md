@@ -58,17 +58,17 @@ Build REST APIs for **TODO Management Module**:
 
 Secure REST APIs using **Spring Security** and **JWT**:
 
-Implement role-based authorization:
+**Implement role-based authorization:**
 - Admin: Add, Get, Get All, Update, Delete, Complete, Incomplete Todos.
 - User: Get, Get All, Complete, Incomplete Todos.
 
 
-Build Register and Login REST APIs:
+**Build Register and Login REST APIs:**
 - Register REST API
 - Login REST API
 
 ## Frontend
-Use JWT for securing the React app.
+**Use JWT for securing the React app.**
 
 This project provides a complete solution for managing todos with a clear separation of roles and responsibilities for **admin** and **regular users**, ensuring security and efficiency in task management.
 

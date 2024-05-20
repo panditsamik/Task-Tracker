@@ -55,6 +55,7 @@ Build REST APIs for **TODO Management Module**:
 - Incomplete Todo
 
 
+
 Secure REST APIs using **Spring Security** and **JWT**:
 
 Implement role-based authorization:
@@ -65,3 +66,29 @@ Implement role-based authorization:
 Build Register and Login REST APIs:
 - Register REST API
 - Login REST API
+
+## Frontend
+Use JWT for securing the React app.
+
+This project provides a complete solution for managing todos with a clear separation of roles and responsibilities for **admin** and **regular users**, ensuring security and efficiency in task management.
+
+
+---
+
+# Images
+![1](https://github.com/panditsamik/Task-Tracker/assets/91545371/1e9842d9-1e7d-457f-b546-a2de0ecf2b92)
+
+![2](https://github.com/panditsamik/Task-Tracker/assets/91545371/f9cc5d71-ff60-4ce2-b44c-d3c38ea863b6)
+
+![3](https://github.com/panditsamik/Task-Tracker/assets/91545371/adfcf538-d3e5-4569-88cb-68731c1b7746)
+
+![4](https://github.com/panditsamik/Task-Tracker/assets/91545371/6731168d-408c-42c2-a4bd-9643ddb0431c)
+
+![5](https://github.com/panditsamik/Task-Tracker/assets/91545371/6f36fd6c-e747-45f3-b877-8a2d718a8764)
+
+---
+# Video
+
+https://github.com/panditsamik/Task-Tracker/assets/91545371/f464e21f-9e31-49e0-ac92-d7e0dfcf54d9
+
+
